@@ -24,7 +24,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniish-ansarii&show_icons=true&locale=en&layout=compact" alt="daniish-ansarii" /></p>
 <h2>❤️ Support Me</h2>
 <p><p>
-<a href="https://www.buymeacoffee.commohddanishj">
+<a href="https://www.buymeacoffee.com/mohddanishj">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 </a>
 </p>
