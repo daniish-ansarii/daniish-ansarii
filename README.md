@@ -16,7 +16,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniish-ansarii&" alt="daniish-ansarii" /></p>
 <h2>❤️ Support Me</h2>
 <p><p>
-<a href="https://www.buymeacoffee.com/buymeacoffee.com/mohddanishj">
+<a href="https://www.buymeacoffee.com/mohddanishj">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 </a>
 </p>
