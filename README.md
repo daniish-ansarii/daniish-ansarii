@@ -25,4 +25,4 @@
 
 
 ## Watch Snake eating my contribution
-![snake gif](https://github.com/daniish-ansarii/daniish-ansarii/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/daniish-ansarii/daniish-ansarii/blob/output/github-snake.svg)
