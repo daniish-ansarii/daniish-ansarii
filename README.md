@@ -22,7 +22,5 @@
 </p>
 </p>
 
+ ![snake gif](https://github.com/daniish-ansarii/daniish-ansarii/blob/output/github-snake.svg)
 
-
-## Watch Snake eating my contribution
-![snake gif](https://github.com/daniish-ansarii/daniish-ansarii/blob/output/github-snake.svg)
